@@ -3,14 +3,6 @@
 This directory contains examples for all the C-based gRPC implementations. Each
 language subdirectory contains a Hello World example and more:
 
-* [Android](android)
-* [C++](cpp)
-* [Node.js](node)
-* [Objective-C](objective-c/helloworld)
-* [PHP](php)
-* [Python](python/helloworld)
-* [Ruby](ruby)
-
 For a complete list of supported languages, see [Supported languages][lang].
 
 For comprehensive documentation, including an [Introduction to gRPC][intro] and
